@@ -1,4 +1,4 @@
-# Global Earthquake Heatmap (QGIS)
+# Global Earthquake Heatmap Project ⛰️
 
 ## Overview
 
