@@ -2,12 +2,14 @@
 
 ## Overview
 
-This project visualizes global earthquake activity using spatial heatmap techniques in QGIS to identify regions with high seismic frequency.
+This report presents a simple earthquake analysis project using QGIS, a Geographic Information System (GIS) tool. The project maps earthquake events recorded between 1st September to 8th September 2025, highlighting their magnitude, distribution, and proximity to major tectonic boundaries. Supplementary layers such as world borders and major cities are included to provide geographic context.
 
 ## Tools
 
 * QGIS
 * Public earthquake datasets (USGS)
+* Base map layers (Natural Earth Data)
+* Polygon layer (Open Source Respository)
 
 ## Methodology
 
@@ -18,7 +20,7 @@ This project visualizes global earthquake activity using spatial heatmap techniq
 
 ## Result
 
-The resulting visualization highlights regions with high earthquake concentration, particularly along major tectonic boundaries such as the Pacific Ring of Fire.
+The resulting visualization highlights magnitude distribution indicates that the largest earthquakes were clustered around subduction zones in Asian and the western Pacific, while transform boundaries (e.g., San Andreas) primarily experienced lower-magnitude tremors.
 
 ## Note on Data
 
